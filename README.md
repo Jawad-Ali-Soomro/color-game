@@ -1,7 +1,2 @@
-# COLOR GAME
-<br />
-
-# MUZAMIL ALI BHUTTO
-<br />
-
-# DONE IN BOOTCAMP
+# Color Game
+done by muzamil ali bhutto and also jawad ali soomro
